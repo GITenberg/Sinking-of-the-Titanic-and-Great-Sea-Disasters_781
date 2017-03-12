@@ -1,11 +1,16 @@
 _repo: Sinking-of-the-Titanic-and-Great-Sea-Disasters_781
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Marshall, Logan
     gutenberg_agent_id: '1300'
     url: http://www.gutenberg.org/2009/agents/1300
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/781#Sinking-of-the-Titanic-and-Great-Sea-Disasters
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
